@@ -1,2 +1,2 @@
 # hacktoberfest
-coding
+All codes in C++ are welcomed 
